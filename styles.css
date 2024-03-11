@@ -1,0 +1,33 @@
+.para {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 200px;
+    background-color: #C1F2AA;
+}
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.bgc {
+    background-color: #D5EFC9;
+}
+header {
+    background-color: #B8FF97;
+}
+.review-form {
+    display: flex;
+    flex-direction: column;
+    width: 425px;
+    padding: 20px;
+    margin: 40px;
+    border: 2px solid #d8d8d8;
+    background-color: white;
+    -webkit-box-shadow: 0px 2px 15px -12px rgba(0, 0, 0, 0.57);
+    -moz-box-shadow: 0px 2px 15px -12px rgba(0, 0, 0, 0.57);
+    box-shadow: 2px 15px -12px rgba(0, 0, 0, 0.57);
+  }
+  
